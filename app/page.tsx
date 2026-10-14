@@ -1,6 +1,6 @@
 export default function Home() {
   return(
-    <main style={{textAlign:"center", marginTop: "50px"}}>
+    <main style={{textAlign:"center", marginTop: "70px"}}>
       <h1>Welcome to Somya Project</h1>
       <p>This is Live project in NEXTJS Website</p>
     </main>
